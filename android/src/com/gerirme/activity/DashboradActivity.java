@@ -1,4 +1,4 @@
-package com.gerime.activity;
+package com.gerirme.activity;
 
 import java.util.List;
 
@@ -17,9 +17,9 @@ import android.widget.ArrayAdapter;
 import android.widget.ListView;
 import android.widget.SearchView;
 
-import com.gerime.model.AccountMoviment;
-import com.gerime.repository.EntityManager;
 import com.gerirme.R;
+import com.gerirme.model.AccountMoviment;
+import com.gerirme.repository.EntityManager;
 
 public class DashboradActivity extends ListActivity implements
 		SearchView.OnQueryTextListener {

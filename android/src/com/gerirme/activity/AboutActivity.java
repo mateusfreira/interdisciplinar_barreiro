@@ -1,4 +1,4 @@
-package com.gerime.activity;
+package com.gerirme.activity;
 
 
 import android.app.Activity;

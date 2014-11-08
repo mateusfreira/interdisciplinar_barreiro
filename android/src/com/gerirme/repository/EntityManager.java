@@ -1,4 +1,4 @@
-package com.gerime.repository;
+package com.gerirme.repository;
 
 import com.codeslap.persistence.SqlAdapter;
 

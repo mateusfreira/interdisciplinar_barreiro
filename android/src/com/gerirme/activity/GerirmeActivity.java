@@ -1,4 +1,4 @@
-package com.gerime.activity;
+package com.gerirme.activity;
 
 import android.app.Activity;
 import android.content.Intent;
@@ -9,11 +9,11 @@ import android.view.WindowManager;
 import com.codeslap.persistence.DatabaseSpec;
 import com.codeslap.persistence.Persistence;
 import com.codeslap.persistence.PersistenceConfig;
-import com.gerime.model.AccountMoviment;
-import com.gerime.model.User;
-import com.gerime.repository.EntityManager;
-import com.gerime.repository.UserRepository;
 import com.gerirme.R;
+import com.gerirme.model.AccountMoviment;
+import com.gerirme.model.User;
+import com.gerirme.repository.EntityManager;
+import com.gerirme.repository.UserRepository;
 
 public class GerirmeActivity extends Activity {
 

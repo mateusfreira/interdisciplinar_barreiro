@@ -1,8 +1,8 @@
-package com.gerime.repository;
+package com.gerirme.repository;
 
 import java.util.List;
 
-import com.gerime.model.User;
+import com.gerirme.model.User;
 
 public class UserRepository {
 	public static boolean hasLogin() {

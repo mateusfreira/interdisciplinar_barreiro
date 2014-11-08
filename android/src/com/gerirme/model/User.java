@@ -1,4 +1,4 @@
-package com.gerime.model;
+package com.gerirme.model;
 
 public class User {
 	private long id;

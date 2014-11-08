@@ -1,4 +1,4 @@
-package com.gerime.model;
+package com.gerirme.model;
 
 public class AccountMoviment {
 	private static final String OUT_STRING = "(-)";

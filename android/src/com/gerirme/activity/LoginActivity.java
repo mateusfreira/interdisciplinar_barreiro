@@ -1,4 +1,4 @@
-package com.gerime.activity;
+package com.gerirme.activity;
 
 import android.app.Activity;
 import android.content.Intent;
@@ -8,10 +8,10 @@ import android.view.View;
 import android.view.View.OnClickListener;
 import android.widget.Button;
 
-import com.gerime.model.AccountMoviment;
-import com.gerime.model.User;
-import com.gerime.repository.EntityManager;
 import com.gerirme.R;
+import com.gerirme.model.AccountMoviment;
+import com.gerirme.model.User;
+import com.gerirme.repository.EntityManager;
 
 public class LoginActivity extends Activity {
 

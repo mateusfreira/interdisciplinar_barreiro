@@ -1,4 +1,4 @@
-package com.gerime.activity;
+package com.gerirme.activity;
 
 import android.app.Activity;
 import android.app.AlertDialog;
@@ -9,9 +9,9 @@ import android.view.MenuItem;
 import android.widget.EditText;
 import android.widget.Switch;
 
-import com.gerime.model.AccountMoviment;
-import com.gerime.repository.EntityManager;
 import com.gerirme.R;
+import com.gerirme.model.AccountMoviment;
+import com.gerirme.repository.EntityManager;
 
 public class RegisterActivity extends Activity {
     AccountMoviment accountMoviment;
