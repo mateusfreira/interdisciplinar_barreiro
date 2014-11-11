@@ -12,7 +12,9 @@ import com.gerirme.R;
 import com.gerirme.model.AccountMoviment;
 import com.gerirme.model.User;
 import com.gerirme.repository.EntityManager;
-
+/**
+ * Classe responsável pelas tela de loguin da aplicação
+ */
 public class LoginActivity extends Activity {
 
 	@Override

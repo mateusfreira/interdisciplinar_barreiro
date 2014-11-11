@@ -14,7 +14,11 @@ import com.gerirme.model.AccountMoviment;
 import com.gerirme.model.User;
 import com.gerirme.repository.EntityManager;
 import com.gerirme.repository.UserRepository;
-
+/**
+ * 
+ * Activity Principal usada somente para acessar as primeiras telas de app
+ *
+ */
 public class GerirmeActivity extends Activity {
 
 	private static long SLEEP_TIME = 2;

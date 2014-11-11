@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name">Orçamento - Gerir-ME</string>
+    <string name="app_name">Orçamento Pessoal</string>
     <string name="confirme_remove_account">Tem certeza que deseja excluir este lançamento?</string>
     <string name="yes">Sim</string>
     <string name="no">Não</string>

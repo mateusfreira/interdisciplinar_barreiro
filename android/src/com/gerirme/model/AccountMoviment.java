@@ -1,5 +1,8 @@
 package com.gerirme.model;
 
+/*
+ * Essa responsável por armazenar e tratar os dados dos lançamentos da aplicação como utilizamos um framework para persistência ela e um simples POJO.
+ */
 public class AccountMoviment {
 	private static final String OUT_STRING = "(-)";
 	private static final String IN_STRING = "(+)";

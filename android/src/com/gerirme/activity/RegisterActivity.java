@@ -12,7 +12,9 @@ import android.widget.Switch;
 import com.gerirme.R;
 import com.gerirme.model.AccountMoviment;
 import com.gerirme.repository.EntityManager;
-
+/*
+ * Tela resposveu por cadasrtar os lançamentos
+ */
 public class RegisterActivity extends Activity {
     AccountMoviment accountMoviment;
 

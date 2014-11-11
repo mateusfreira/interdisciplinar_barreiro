@@ -1,5 +1,8 @@
 package com.gerirme.model;
 
+/*
+ * Essa responsável por armazenar e tratar os dados do usuário da aplicação como utilizamos um framework para persistência ela e um simples POJO.
+ */
 public class User {
 	private long id;
 	private String name;

@@ -7,7 +7,10 @@ import android.view.Menu;
 import android.view.MenuItem;
 
 import com.gerirme.R;
-
+/**
+ * 
+ * sClasse responsável pela ela de Sobre
+ */
 public class AboutActivity extends Activity {
 
 	@Override

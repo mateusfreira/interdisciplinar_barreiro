@@ -21,6 +21,11 @@ import com.gerirme.R;
 import com.gerirme.model.AccountMoviment;
 import com.gerirme.repository.EntityManager;
 
+/**
+ * 
+ * Classe responsável pela peimeira tela de aplicação
+ *
+ */
 public class DashboradActivity extends ListActivity implements
 		SearchView.OnQueryTextListener {
 	List<AccountMoviment> list;
